@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Name: Nathan Custodio Rosa 🙋‍♂️.<br>Studying in: Desenvolvimento de Software Multiplataforma 🎓.<br>Location: São Paulo, Brasil 🌎.<br>Loves: Jogos 🎮, Tecnologia 🖥.<br>Hobbies: Play games 🕹, Read 📖 and Program 💻.<br>Languages: Python, Java.</p>
+<p align="left">Name: Nathan Custodio Rosa 🙋‍♂️.<br>Studying in: Desenvolvimento de Software Multiplataforma. in: Fatec Zona Sul 🎓.<br>Studying: Engenharia de Computação. in: Univesp 🎓.<br>Location: São Paulo, Brasil 🌎.<br>Loves: Jogos 🎮, Tecnologia 🖥.<br>Hobbies: Play games 🕹, Read 📖 and Program 💻.<br>Languages: Python, Java.</p>
 
 ###
 
